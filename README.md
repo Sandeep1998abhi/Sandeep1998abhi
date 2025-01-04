@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-flame-six.vercel.app/](https://my-portfolio-flame-six.vercel.app/)
 
-- 💬 Ask me about **Html,Css,Javascript**
+- 💬 Ask me about **Html,Css,Javascript,Reactjs,Tailwind CSS,Bootstap,JAVA,Python**
 
 - 📫 How to reach me **mahisandeep786@gmail.com**
 
