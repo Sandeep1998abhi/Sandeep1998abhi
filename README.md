@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **full stack development form Newton School**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-flame-six.vercel.app/](https://my-portfolio-flame-six.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-flame-six.vercel.app/](https://my-portfolio-flame-six.vercel.app/](https://myport-theta.vercel.app/)
 
 - 💬 Ask me about **Html,Css,Javascript,Reactjs,Tailwind CSS,Bootstap,JAVA,Python**
 
